@@ -4,7 +4,7 @@ First Terminal
 mosquitto path > mosquitto
 
 Second Terminal
-netstat -a
+path > netstat -a
 
 Third Terminal
 subscribe.js path > node subscribe.js
